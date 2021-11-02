@@ -9,33 +9,33 @@
 ## Screenshots
 
 <div style="display: inline-block;">
-<img src="https://github.com/timpihl/cupertino-icons/blob/main/docs/house.svg" alt="preview"  width="50"/>
+<img src="https://github.com/timpihl/cupertino-icons/blob/master/docs/house.svg" alt="preview"  width="50"/>
   &#8287;&#8287;&#8287;
-<img src="https://github.com/timpihl/cupertino-icons/blob/main/docs/lightbulb_fill.svg" alt="preview"  width="50"/>
+<img src="https://github.com/timpihl/cupertino-icons/blob/master/docs/lightbulb_fill.svg" alt="preview"  width="50"/>
   &#8287;&#8287;&#8287;
-<img src="https://github.com/timpihl/cupertino-icons/blob/main/docs/lightbulb.svg" alt="preview"  width="50"/>
+<img src="https://github.com/timpihl/cupertino-icons/blob/master/docs/lightbulb.svg" alt="preview"  width="50"/>
   &#8287;&#8287;&#8287;
-<img src="https://github.com/timpihl/cupertino-icons/blob/main/docs/alarm.svg" alt="preview" width="50"/>
+<img src="https://github.com/timpihl/cupertino-icons/blob/master/docs/alarm.svg" alt="preview" width="50"/>
   &#8287;&#8287;&#8287;
-<img src="https://github.com/timpihl/cupertino-icons/blob/main/docs/app_badge_fill.svg" alt="preview"  width="50"/>
+<img src="https://github.com/timpihl/cupertino-icons/blob/master/docs/app_badge_fill.svg" alt="preview"  width="50"/>
   &#8287;&#8287;&#8287;
-<img src="https://github.com/timpihl/cupertino-icons/blob/main/docs/battery_25.svg" alt="preview"  width="50"/>
+<img src="https://github.com/timpihl/cupertino-icons/blob/master/docs/battery_25.svg" alt="preview"  width="50"/>
   &#8287;&#8287;&#8287;
-<img src="https://github.com/timpihl/cupertino-icons/blob/main/docs/bed_double_fill.svg" alt="preview"  width="50"/>
+<img src="https://github.com/timpihl/cupertino-icons/blob/master/docs/bed_double_fill.svg" alt="preview"  width="50"/>
   <br/>
-<img src="https://github.com/timpihl/cupertino-icons/blob/main/docs/camera_fill.svg" alt="preview"  width="50"/>
+<img src="https://github.com/timpihl/cupertino-icons/blob/master/docs/camera_fill.svg" alt="preview"  width="50"/>
   &#8287;&#8287;&#8287;
-<img src="https://github.com/timpihl/cupertino-icons/blob/main/docs/cloud_moon_rain.svg" alt="preview"  width="50"/>
+<img src="https://github.com/timpihl/cupertino-icons/blob/master/docs/cloud_moon_rain.svg" alt="preview"  width="50"/>
   &#8287;&#8287;&#8287;
-<img src="https://github.com/timpihl/cupertino-icons/blob/main/docs/cloud_sun.svg" alt="preview"  width="50"/>
+<img src="https://github.com/timpihl/cupertino-icons/blob/master/docs/cloud_sun.svg" alt="preview"  width="50"/>
   &#8287;&#8287;&#8287;
-<img src="https://github.com/timpihl/cupertino-icons/blob/main/docs/moon_stars.svg" alt="preview"  width="50"/>
+<img src="https://github.com/timpihl/cupertino-icons/blob/master/docs/moon_stars.svg" alt="preview"  width="50"/>
   &#8287;&#8287;&#8287;
-<img src="https://github.com/timpihl/cupertino-icons/blob/main/docs/moon_zzz_fill.svg" alt="preview"  width="50"/>
+<img src="https://github.com/timpihl/cupertino-icons/blob/master/docs/moon_zzz_fill.svg" alt="preview"  width="50"/>
   &#8287;&#8287;&#8287;
-<img src="https://github.com/timpihl/cupertino-icons/blob/main/docs/person_crop_circle_badge_checkmark.svg" alt="preview"  width="50"/>
+<img src="https://github.com/timpihl/cupertino-icons/blob/master/docs/person_crop_circle_badge_checkmark.svg" alt="preview"  width="50"/>
   &#8287;&#8287;&#8287;
-<img src="https://github.com/timpihl/cupertino-icons/blob/main/docs/speaker_2_fill.svg" alt="preview"  width="50"/>
+<img src="https://github.com/timpihl/cupertino-icons/blob/master/docs/speaker_2_fill.svg" alt="preview"  width="50"/>
 </div>
 
 ## Install
